@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@auth/prisma-adapter": "^2.4.1",
     "@blocknote/core": "^0.14.5",
     "@blocknote/mantine": "^0.14.6",
     "@blocknote/react": "^0.14.6",
